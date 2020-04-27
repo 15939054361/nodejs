@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15939054361/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15939054361/nodejs/issues"
+  },
+  "homepage": "https://github.com/15939054361/nodejs#readme",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
