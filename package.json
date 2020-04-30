@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/15939054361/nodejs#readme",
   "dependencies": {
-    "md5": "^2.2.1"
+    "md5": "^2.2.1",
+    "mkdirp": "^1.0.4"
   }
 }
